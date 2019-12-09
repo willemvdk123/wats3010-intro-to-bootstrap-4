@@ -1,1 +1,18 @@
-/* Site Styles Go Here */
+
+.footer-flex {
+display: flex;
+flex-direction: row;
+justify-content: space-between
+}
+
+.footer-item-flex {
+flex: 0 1 auto;
+}
+
+a[title] {
+    color: purple;
+}
+
+button:hover {
+    color: blue;
+  }
